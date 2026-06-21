@@ -1,0 +1,21 @@
+# Core
+transformers>=4.51.0
+torch
+accelerate
+bitsandbytes          # untuk kuantisasi 4-bit (NF4)
+sentence-transformers
+
+# Evaluasi NLI / faithfulness
+scikit-learn
+
+# Uji statistik
+pingouin
+scipy
+statsmodels           # Cochran's Q
+pandas
+numpy
+
+# Visualisasi & output
+matplotlib
+seaborn
+openpyxl              # menulis file Excel multi-sheet
