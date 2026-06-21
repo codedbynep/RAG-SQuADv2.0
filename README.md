@@ -70,7 +70,7 @@ Penelitian ini menggunakan **desain faktorial 4×3**, yaitu 4 konfigurasi pipeli
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone https://github.com/codedbynep/RAG-SQuADv2.0.git
    ```
 2. Install dependensi:
    ```bash
