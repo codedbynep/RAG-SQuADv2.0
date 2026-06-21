@@ -60,8 +60,8 @@ Penelitian ini menggunakan **desain faktorial 4×3**, yaitu 4 konfigurasi pipeli
 ```
 .
 ├── dataset/      Data SQuAD v2.0 yang digunakan dalam eksperimen
-├── source/       Notebook eksperimen (top-k, pipeline, evaluasi, uji statistik)
-└── results/      Output: tabel metrik, grafik, dan file evaluasi
+├── source/       Notebook eksperimen (top-k, pipeline, uji statistik)
+└── results/      Output: human eval, metrics, predictions
 ```
 
 ---
