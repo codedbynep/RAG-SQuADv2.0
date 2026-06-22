@@ -86,4 +86,4 @@ Penelitian menguji empat konfigurasi pipeline pada tiga skala model dari satu ke
 
 ## Dataset
 
-Dataset berasal dari **SQuAD v2.0** ([`rajpurkar/squad_v2`](https://huggingface.co/datasets/rajpurkar/squad_v2)) yang memuat pasangan konteks–pertanyaan beserta anotasi jawaban, dengan pertanyaan *answerable* maupun *unanswerable*. Subset yang digunakan dalam penelitian ini tersedia pada folder `dataset/`.
+Dataset berasal dari **SQuAD v2.0** ([`rajpurkar/squad_v2`](https://huggingface.co/datasets/rajpurkar/squad_v2)) yang memuat pasangan konteks–pertanyaan beserta anotasi jawaban, dengan pertanyaan *answerable* dan *unanswerable*. Subset yang digunakan dalam penelitian ini tersedia pada folder `dataset/`.
