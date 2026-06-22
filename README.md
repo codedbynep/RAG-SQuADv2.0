@@ -1,8 +1,21 @@
 # Peningkatan Kualitas Jawaban dan Abstention pada QA berbasis RAG: Kombinasi Zero-shot Instruction Prompting dan Self-verification
 
-Repositori ini berisi kode, dataset, dan hasil eksperimen dari penelitian skripsi yang menerapkan **Retrieval-Augmented Generation (RAG)** domain **Question Answering (QA)** pada dataset **SQuAD v2.0**. Penelitian ini mengkaji pengaruh kombinasi **zero-shot instruction prompting** dan **self-verification** terhadap dua aspek: kualitas jawaban berbasis bukti (*faithfulness*) pada pertanyaan *answerable*, dan ketepatan *abstention* pada pertanyaan *unanswerable*.
+Repositori ini berisi kode, dataset, dan hasil eksperimen dari penelitian skripsi yang menerapkan **Retrieval-Augmented Generation (RAG)** domain **Question Answering (QA)** pada dataset **SQuAD v2.0**.
 
 ---
+
+## Informasi Skripsi
+
+|                    |                                         |
+|--------------------|-----------------------------------------|
+| Tahun              | 2026                                    |
+| Penulis            | Nevitya Elmaira Nurjannah               |
+| Institusi          | Universitas Negeri Surabaya             |
+| Dosen Pembimbing   | Cendra Devayana Putra, S.Kom., M.I.M.   |
+| Dosen Penguji 1    | Dr. Wiyli Yustanti, S.Si., M.Kom.       |
+| Dosen Penguji 2    | Monica Cinthya, M.Kom.                  |
+
+
 
 ## Ringkasan Penelitian
 
