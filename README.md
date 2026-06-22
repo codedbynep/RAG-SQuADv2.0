@@ -8,7 +8,7 @@ Repositori ini merupakan kode pendukung skripsi dengan judul **"Peningkatan Kual
 |---|---|
 | Tahun | 2026 |
 | Penulis | Nevitya Elmaira Nurjannah |
-| Afiliasi | Universitas Negeri Surabaya |
+| Institusi | Universitas Negeri Surabaya |
 | Dosen Pembimbing | Cendra Devayana Putra, S.Kom., M.I.M. |
 | Dosen Penguji 1 | Dr. Wiyli Yustanti, S.Si., M.Kom. |
 | Dosen Penguji 2 | Monica Cinthya, M.Kom. |
